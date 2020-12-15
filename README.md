@@ -1,6 +1,8 @@
 起動方法
 
 ```
+git clone https://github.com/kobain-jp/docker-postgres.git
+cd docker-postgres
 docker-compose up -d
 ```
 
